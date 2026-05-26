@@ -1,0 +1,14 @@
+torch --extra-index-url https://pytorch.org
+torchvision --extra-index-url https://pytorch.org
+torchaudio --extra-index-url https://pytorch.org
+einops
+transformers>=4.25.1
+safetensors>=0.3.0
+aiohttp
+pyyaml
+Pillow
+scipy
+tqdm
+psutil
+gitpython
+
